@@ -1,4 +1,2 @@
-# html-css-code
-This is my first Git repository.
-<Br>
-Auther: Fahad Inam
+My name is Fahad Inam
+My roll number is 0658
